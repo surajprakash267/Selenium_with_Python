@@ -43,6 +43,7 @@ calc = BasicCalculator(10, 5)
 
 # Demonstration of  the functionality of each methods
 
+
 print(f"Addition: {calc.first_num} + {calc.second_num} = {calc.addition()}")
 print(f"Subtraction: {calc.first_num} - {calc.second_num} = {calc.subtraction()}")
 print(f"Multiplication: {calc.first_num} * {calc.second_num} = {calc.multiplication()}")
